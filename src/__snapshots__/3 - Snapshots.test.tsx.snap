@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render correctly 1`] = `
+<div>
+  <h1>
+    hello
+  </h1>
+  <h3>
+    qwewqewq
+  </h3>
+  <div
+    className="button__wrapper"
+  >
+    <button>
+      Click me
+    </button>
+  </div>
+</div>
+`;
