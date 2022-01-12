@@ -4,3 +4,4 @@
 !/.yarn/releases
 !/.yarn/sdks
 node_modules
+.idea
